@@ -15,7 +15,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 Pursuing **B.Tech in Artificial Intelligence & Machine Learning (AIML)**.
+- 🎓 Pursuing **B.Tech in Artificial Intelligence & Machine Learning (AIML)**..
 - 📊 Skilled in **SAS** for data analytics & statistical modeling
 - 🤖 Passionate about **Machine Learning, Deep Learning & Data Science**
 - 🌱 Currently exploring advanced AI/ML frameworks and real-world projects
